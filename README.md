@@ -29,7 +29,7 @@
 
 | Social       | Link                                                                 |
 |--------------|----------------------------------------------------------------------|
-| 📘 Facebook   | [Nguyễn Văn Cam](https://facebook.com/blvck.camle)                  |
+| 📘 Facebook   | [Lê Cảm](https://facebook.com/blvck.camle)                  |
 | 📺 YouTube    | [CamLC](https://youtube.com/...)                                    |
 | 💼 Working    | Software Engineering Student @VKU                                   |
 | 🏫 University | Vietnam-Korea University of Information and Communication Technology |
