@@ -11,15 +11,12 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,php,kotlin,androidstudio,laravel,spring,html,css,js,mysql,git,vscode" />
-</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,python,html,css,js" />
   <br />
-  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode,figma,postman,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode,figma,postman,git,github" />
   <br />
-  <img src="https://skillicons.dev/icons?i=laravel,spring,nodejs,react,express,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,spring,nodejs,firebase,mysql" />
 </p>
 
 
