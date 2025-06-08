@@ -18,8 +18,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camvku&show_icons=true&theme=radical" alt="camvku stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=camvku&theme=radical" alt="camvku streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CAMLC25&show_icons=true&theme=radical" alt="CAMLC25 stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAMLC25&theme=radical" alt="CAMLC25 streak" />
 </p>
 
 ---
