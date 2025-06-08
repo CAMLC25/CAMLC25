@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td>📘 Facebook</td>
-    <td><a href="https://facebook.com/blvck.camle">Nguyễn Văn Cam</a></td>
+    <td><a href="https://facebook.com/blvck.camle">Lê Cảm</a></td>
   </tr>
   <tr>
     <td>📺 YouTube</td>
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>🏫 University</td>
-    <td>Vietnam-Korea University of Information and Communication Technology</td>
+    <td><a href="http://www.vku.udn.vn/">Vietnam-Korea University of Information and Communication Technology</a></td>
   </tr>
   <tr>
     <td>✉️ Contact</td>
