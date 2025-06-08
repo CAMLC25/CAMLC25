@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Cam</h1>
-<h3 align="center">A passionate software engineering student from VKU</h3>
+<h3 align="center">I'm a software engineering student trying my best to get better every day.</h3>
 
-- 🔭 I’m currently working on: [Cook Lab - Cooking App](https://github.com/camvku/cook-lab)
-- 🌱 I’m currently learning: `Spring Framework`, `Android Kotlin`, `Laravel`, `Machine Learning`
-- 💬 Ask me about: `Laravel`, `Room`, `Retrofit`, `RecyclerView`, `Spring MVC`, `JSP`
-- 📫 How to reach me: camvku@gmail.com
-- ⚡ Fun fact: I come up with programming ideas while running 🏃
+- 🚧 Current focus: personal growth through hands-on projects
+- 🌱 Learning: UI/UX thinking, backend logic.
+- 🧠 Interest: building things that help people learn or live better
+- 💬 Ask me anything about: how I stay curious as a student developer
+- 📫 camle.work@gmail.com
+- 🏃 Fun fact: I come up with ideas when I run (seriously!)
 
 ---
 
