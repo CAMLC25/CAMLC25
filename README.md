@@ -3,14 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/CAMLC25/CAMLC25/main/cam.gif" alt="Welcome GIF" width="600" />
 </p>
-
-- 🚧 Current focus: personal growth through hands-on projects
-- 🌱 Learning: UI/UX thinking, backend logic.
-- 🧠 Interest: building things that help people learn or live better
-- 💬 Ask me anything about: how I stay curious as a student developer
-- 📫 camlee.work@gmail.com
-- 🏃 Fun fact: I come up with ideas when I run (seriously!)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8D%8A%F0%9F%87%A8+%F0%9F%87%A6+%F0%9F%87%B2%F0%9F%8D%8A)](https://git.io/typing-svg)
 ---
 
 ### 🛠️ Languages and Tools
