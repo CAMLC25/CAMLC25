@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Cam" alt="Typing SVG" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Cam)](https://git.io/typing-svg)
 <h3 align="center">I'm a software engineering student trying my best to get better every day.</h3>
 
 - 🚧 Current focus: personal growth through hands-on projects
