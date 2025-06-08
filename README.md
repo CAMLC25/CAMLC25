@@ -4,6 +4,8 @@
   <img src="https://i.imgur.com/yourBannerID.png" alt="Cam's Banner" />
 </p>
 
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 - 🚧 Current focus: personal growth through hands-on projects
 - 🌱 Learning: UI/UX thinking, backend logic.
 - 🧠 Interest: building things that help people learn or live better
