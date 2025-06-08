@@ -26,9 +26,7 @@
 ### 📬 Contact Me
 
 <div align="center">
-
-|--------------|----------------------------------------------------------------------|
-|:------------:|:---------------------------------------------------------------------:|
+  
 | 📘 Facebook   | [Lê Cảm](https://facebook.com/blvck.camle)                          |
 | 📺 YouTube    | [CamLC](https://youtube.com/...)                                    |
 | 💼 Working    | Software Engineering Student @VKU                                   |
