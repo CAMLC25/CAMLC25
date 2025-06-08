@@ -27,7 +27,7 @@
 
 <div align="center">
 
-| Social       | Link                                                                 |
+|       |                                                              |
 |--------------|----------------------------------------------------------------------|
 | 📘 Facebook   | [Lê Cảm](https://facebook.com/blvck.camle)                  |
 | 📺 YouTube    | [CamLC](https://youtube.com/...)                                    |
