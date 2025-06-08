@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=........................................;%E2%99%A5%EF%B8%8F%E2%9D%A4%EF%B8%8F%F0%9F%92%9B%F0%9F%92%9A%F0%9F%92%99%F0%9F%92%9C%F0%9F%96%A4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=........................................;%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F%E2%99%A5%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
