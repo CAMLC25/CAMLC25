@@ -25,15 +25,30 @@
 
 ### 📬 Contact Me
 
-<div align="center">
-
-| 📘 Facebook   | [Nguyễn Văn Cam](https://facebook.com/blvck.camle)                  |
-| 📺 YouTube    | [CamLC](https://youtube.com/...)                                    |
-| 💼 Working    | Software Engineering Student @VKU                                   |
-| 🏫 University | Vietnam-Korea University of Information and Communication Technology |
-| ✉️ Contact    | [camlee.work@gmail.com](mailto:camlee.work@gmail.com)              |
-
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td>📘 Facebook</td>
+      <td><a href="https://facebook.com/blvck.camle">Nguyễn Văn Cam</a></td>
+    </tr>
+    <tr>
+      <td>📺 YouTube</td>
+      <td><a href="https://youtube.com/">CamLC</a></td>
+    </tr>
+    <tr>
+      <td>💼 Working</td>
+      <td>Software Engineering Student @VKU</td>
+    </tr>
+    <tr>
+      <td>🏫 University</td>
+      <td>Vietnam-Korea University of Information and Communication Technology</td>
+    </tr>
+    <tr>
+      <td>✉️ Contact</td>
+      <td><a href="mailto:camlee.work@gmail.com">camlee.work@gmail.com</a></td>
+    </tr>
+  </table>
+</p>
 
 ---
 
