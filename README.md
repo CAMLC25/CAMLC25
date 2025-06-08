@@ -5,7 +5,7 @@
 - 🌱 Learning: UI/UX thinking, backend logic.
 - 🧠 Interest: building things that help people learn or live better
 - 💬 Ask me anything about: how I stay curious as a student developer
-- 📫 camle.work@gmail.com
+- 📫 camlee.work@gmail.com
 - 🏃 Fun fact: I come up with ideas when I run (seriously!)
 
 ---
@@ -30,5 +30,6 @@
 ---
 
 ### 🔗 Connect with me
-[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camle.work@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camlee.work@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/blvck.camle)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lc.blvck?utm_source=ig_web_button_share_sheet&igsh=OHoybXhscHJqMngw)
