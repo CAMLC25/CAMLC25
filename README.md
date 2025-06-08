@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Xin+ch%C3%A0o+%F0%9F%91%8B%2C+t%C3%B4i+l%C3%A0+CAM.;Hi+%F0%9F%91%8B%2C+I'm+CAM.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81CAM%E3%81%A7%E3%81%99%E3%80%82;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFCAM%E3%80%82;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%80%EB%8A%94+CAM%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://i.imgur.com/yourBannerID.png" alt="Cam's Banner
+  <img src="https://i.imgur.com/yourBannerID.png" alt="Cam's Banner" />
+</p>
 
 - 🚧 Current focus: personal growth through hands-on projects
 - 🌱 Learning: UI/UX thinking, backend logic.
