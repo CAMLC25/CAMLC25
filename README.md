@@ -12,7 +12,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,c,php,python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,c,php,python,html,css,js,bootstrap" />
   <br />
   <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vscode,figma,postman,git,github" />
   <br />
